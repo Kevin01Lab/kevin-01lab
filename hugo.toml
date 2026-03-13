@@ -51,6 +51,13 @@ home = ["HTML", "RSS", "JSON"]
         url = "https://medium.com/@0.1Lab"
         title = "mon medium"
 
+    [params.assets]
+        favicon = "https://framerusercontent.com/images/5A2EWPnzNGseI7Wn38qQdkkEYM.png"
+        favicon16x16 = "https://framerusercontent.com/images/5A2EWPnzNGseI7Wn38qQdkkEYM.png"
+        favicon32x32 = "https://framerusercontent.com/images/5A2EWPnzNGseI7Wn38qQdkkEYM.png"
+        apple_touch_icon = "https://framerusercontent.com/images/5A2EWPnzNGseI7Wn38qQdkkEYM.png"
+        safari_pinned_tab = "https://framerusercontent.com/images/5A2EWPnzNGseI7Wn38qQdkkEYM.png"
+
     [params.fuseOpts]
         isCaseSensitive = false
         shouldSort = true
