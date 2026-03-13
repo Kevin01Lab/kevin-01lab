@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Llmo on Kevin @ 0.1Lab</title>
+    <link>http://localhost:1313/tags/llmo/</link>
+    <description>Recent content in Llmo on Kevin @ 0.1Lab</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 12 Mar 2026 10:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/llmo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comment faire citer sa marque par ChatGPT en 2026</title>
+      <link>http://localhost:1313/posts/comment-faire-citer-sa-marque-par-chatgpt/</link>
+      <pubDate>Thu, 12 Mar 2026 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/comment-faire-citer-sa-marque-par-chatgpt/</guid>
+      <description>Pourquoi certaines marques sont citées par ChatGPT et d’autres restent invisibles, et comment structurer votre présence pour augmenter vos chances d’apparaître dans les réponses IA.</description>
+    </item>
+  </channel>
+</rss>

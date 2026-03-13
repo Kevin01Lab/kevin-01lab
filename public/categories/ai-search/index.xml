@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI Search on Kevin @ 0.1Lab</title>
+    <link>http://localhost:1313/categories/ai-search/</link>
+    <description>Recent content in AI Search on Kevin @ 0.1Lab</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 12 Mar 2026 10:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/ai-search/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Combien coûte vraiment une stratégie GEO en 2026 ?</title>
+      <link>http://localhost:1313/posts/prix-strategie-geo-2026/</link>
+      <pubDate>Thu, 12 Mar 2026 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/prix-strategie-geo-2026/</guid>
+      <description>Fourchettes de prix, modèles de prestation, livrables et critères de décision : un guide clair pour comprendre le budget d’une stratégie GEO en 2026.</description>
+    </item>
+    <item>
+      <title>Comment apparaître dans Google AI Overviews en 2026 : ce qui marche, ce qui ne marche pas, et comment vraiment augmenter ses chances</title>
+      <link>http://localhost:1313/posts/article-medium-ai-overviews/</link>
+      <pubDate>Thu, 12 Mar 2026 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/article-medium-ai-overviews/</guid>
+      <description>Un article Medium clair, sourcé et orienté B2B pour comprendre Google AI Overviews, éviter les faux hacks et améliorer réellement ses chances d’être cité.</description>
+    </item>
+    <item>
+      <title>Comment choisir une agence GEO pour une entreprise B2B</title>
+      <link>http://localhost:1313/posts/choisir-agence-geo-b2b/</link>
+      <pubDate>Thu, 12 Mar 2026 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/choisir-agence-geo-b2b/</guid>
+      <description>Guide Medium pour évaluer une agence GEO en B2B : livrables, critères, red flags, questions à poser et signaux qui comptent vraiment dans les réponses IA.</description>
+    </item>
+    <item>
+      <title>Comment faire citer sa marque par ChatGPT en 2026</title>
+      <link>http://localhost:1313/posts/comment-faire-citer-sa-marque-par-chatgpt/</link>
+      <pubDate>Thu, 12 Mar 2026 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/comment-faire-citer-sa-marque-par-chatgpt/</guid>
+      <description>Pourquoi certaines marques sont citées par ChatGPT et d’autres restent invisibles, et comment structurer votre présence pour augmenter vos chances d’apparaître dans les réponses IA.</description>
+    </item>
+    <item>
+      <title>GEO : le guide clair pour comprendre comment les entreprises deviennent visibles dans ChatGPT, Gemini et Google AI Overviews</title>
+      <link>http://localhost:1313/posts/article-medium-geo/</link>
+      <pubDate>Thu, 12 Mar 2026 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/article-medium-geo/</guid>
+      <description>Le GEO aide les entreprises à être citées dans les réponses IA. Voici ce que cela change par rapport au SEO, et comment structurer une présence réellement visible.</description>
+    </item>
+    <item>
+      <title>Le SEO traditionnel recule. Le GEO devient la norme pour être recommandé par l’IA</title>
+      <link>http://localhost:1313/posts/seo-vs-geo/</link>
+      <pubDate>Thu, 12 Mar 2026 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/seo-vs-geo/</guid>
+      <description>Pourquoi le SEO classique ne suffit plus en 2026, ce que change vraiment le GEO, et comment structurer un contenu que les IA ont intérêt à citer.</description>
+    </item>
+  </channel>
+</rss>

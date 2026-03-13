@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Perplexity on Kevin @ 0.1Lab</title>
+    <link>http://localhost:1313/tags/perplexity/</link>
+    <description>Recent content in Perplexity on Kevin @ 0.1Lab</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 12 Mar 2026 10:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/perplexity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le SEO traditionnel recule. Le GEO devient la norme pour être recommandé par l’IA</title>
+      <link>http://localhost:1313/posts/seo-vs-geo/</link>
+      <pubDate>Thu, 12 Mar 2026 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/seo-vs-geo/</guid>
+      <description>Pourquoi le SEO classique ne suffit plus en 2026, ce que change vraiment le GEO, et comment structurer un contenu que les IA ont intérêt à citer.</description>
+    </item>
+  </channel>
+</rss>
